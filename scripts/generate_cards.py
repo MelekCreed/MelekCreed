@@ -13,7 +13,7 @@ import urllib.request
 from html import escape
 from pathlib import Path
 
-USER = os.environ.get("GH_USER", "MelekCreed")
+USER = os.environ.get("GH_USER", "MoallaMelek")
 TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
 OUT = Path(__file__).resolve().parent.parent / "assets"
 PINNED = [
