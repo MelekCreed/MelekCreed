@@ -104,7 +104,7 @@ I care about systems that are technically credible *and* actually usable: clean 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-MoallaMelek-181717?style=for-the-badge&logo=github)](https://github.com/MoallaMelek)
-[![Email](https://img.shields.io/badge/Email-melek.moalla%40esprit.tn-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melek.moalla@esprit.tn)
+[![Email](https://img.shields.io/badge/Email-moalla.melek09@gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melek.moalla@esprit.tn)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,35:111827,70:1F2937,100:2563EB" alt="" />
 
