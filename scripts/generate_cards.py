@@ -17,6 +17,10 @@ USER = os.environ.get("GH_USER", "MoallaMelek")
 TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
 OUT = Path(__file__).resolve().parent.parent / "assets"
 PINNED = [
+    "Reward-Goblin",
+    "Hydra-Agent-Orchestrator",
+    "Reinforcement-Learning-Memory-Dungeon",
+    "Vector-CS",
     "Deep-Learning-Plant-DNA-Optimization",
     "AI-Driven-Therapeutic-Protein-Plant-Synthesis",
     "Real-Time-Payment-Observability-Dashboard",

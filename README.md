@@ -22,6 +22,8 @@ I build intelligent software systems that connect **machine learning**, **backen
 - ⚡ **Real-time systems** — WebSocket streaming, Redis, observability dashboards
 - 🧩 **Full-stack AI products** — FastAPI / Django backends with React and Flutter frontends
 - 📚 **RAG & NLP** — knowledge-grounded assistants and workflow automation
+- 🎮 **Reinforcement learning** — PPO agents, reward design and honest evaluation of what agents actually learn
+- 🤖 **Agent tooling** — orchestrating Claude Code and Codex CLI agents side by side
 
 I care about systems that are technically credible *and* actually usable: clean APIs, interpretable ML, and interfaces that make complex outputs feel actionable.
 
@@ -30,6 +32,10 @@ I care about systems that are technically credible *and* actually usable: clean 
 ## Featured Projects
 
 <div align="center">
+  <a href="https://github.com/MoallaMelek/Reward-Goblin"><img width="49%" src="assets/pin-Reward-Goblin.svg" alt="Reward-Goblin" /></a>
+  <a href="https://github.com/MoallaMelek/Hydra-Agent-Orchestrator"><img width="49%" src="assets/pin-Hydra-Agent-Orchestrator.svg" alt="Hydra-Agent-Orchestrator" /></a>
+  <a href="https://github.com/MoallaMelek/Reinforcement-Learning-Memory-Dungeon"><img width="49%" src="assets/pin-Reinforcement-Learning-Memory-Dungeon.svg" alt="Reinforcement-Learning-Memory-Dungeon" /></a>
+  <a href="https://github.com/MoallaMelek/Vector-CS"><img width="49%" src="assets/pin-Vector-CS.svg" alt="Vector-CS" /></a>
   <a href="https://github.com/MoallaMelek/Deep-Learning-Plant-DNA-Optimization"><img width="49%" src="assets/pin-Deep-Learning-Plant-DNA-Optimization.svg" alt="Deep-Learning-Plant-DNA-Optimization" /></a>
   <a href="https://github.com/MoallaMelek/AI-Driven-Therapeutic-Protein-Plant-Synthesis"><img width="49%" src="assets/pin-AI-Driven-Therapeutic-Protein-Plant-Synthesis.svg" alt="AI-Driven-Therapeutic-Protein-Plant-Synthesis" /></a>
   <a href="https://github.com/MoallaMelek/Real-Time-Payment-Observability-Dashboard"><img width="49%" src="assets/pin-Real-Time-Payment-Observability-Dashboard.svg" alt="Real-Time-Payment-Observability-Dashboard" /></a>
@@ -42,6 +48,10 @@ I care about systems that are technically credible *and* actually usable: clean 
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [Reward-Goblin](https://github.com/MoallaMelek/Reward-Goblin) | Reward hacking made visible: real PPO agents exploit misspecified reward functions, measured against a separate true objective across seeds and unseen layouts | Python, PyTorch, Stable-Baselines3, Gymnasium, Pymunk, FastAPI |
+| [Hydra-Agent-Orchestrator](https://github.com/MoallaMelek/Hydra-Agent-Orchestrator) | Cross-platform desktop app that runs, monitors and coordinates Claude Code and OpenAI Codex CLI agents in parallel | TypeScript, Node.js, MCP |
+| [Reinforcement-Learning-Memory-Dungeon](https://github.com/MoallaMelek/Reinforcement-Learning-Memory-Dungeon) | PPO lab comparing feed-forward, short-history and recurrent agents in partially observable dungeons, with memory-deletion experiments | Python, PyTorch, Streamlit |
+| [Vector-CS](https://github.com/MoallaMelek/Vector-CS) | Controls the real Windows desktop with webcam hand gestures: grab, throw, snap and resize windows | Python, Computer Vision, Win32 API |
 | [Deep-Learning-Plant-DNA-Optimization](https://github.com/MoallaMelek/Deep-Learning-Plant-DNA-Optimization) | Plant disease detection, crop DNA optimization, IoT agronomy analytics and genomic decision support | Python, Deep Learning, FastAPI, Flutter |
 | [AI-Driven-Therapeutic-Protein-Plant-Synthesis](https://github.com/MoallaMelek/AI-Driven-Therapeutic-Protein-Plant-Synthesis) | Plant-host-aware protein DNA optimization with grouped surrogate modeling, explainability and decision dashboards | Python, Streamlit, scikit-learn, XGBoost, SHAP |
 | [Real-Time-Payment-Observability-Dashboard](https://github.com/MoallaMelek/Real-Time-Payment-Observability-Dashboard) | Privacy-safe live payment monitoring with synthetic replay and guarded analytics | FastAPI, React, TypeScript, WebSockets, Redis |
@@ -62,6 +72,7 @@ I care about systems that are technically credible *and* actually usable: clean 
 | Area | Tools |
 | --- | --- |
 | AI / ML | PyTorch, TensorFlow, scikit-learn, XGBoost, SHAP, pandas, NumPy |
+| Reinforcement Learning | Stable-Baselines3 (PPO, A2C), Gymnasium, Pymunk |
 | Computer Vision | OpenCV, MediaPipe |
 | AI Product Patterns | RAG, NLP workflows, explainable ML, analytics dashboards |
 | Backend | FastAPI, Django, REST APIs, WebSockets, Redis |
@@ -96,6 +107,7 @@ I care about systems that are technically credible *and* actually usable: clean 
 - AI-first full-stack applications where backend intelligence directly shapes the interface
 - Real-time computer vision and streaming systems that run reliably outside the notebook
 - NLP and HR Tech workflows that automate real business decisions
+- Evaluation tooling that checks what AI agents actually do, not just the score they report
 
 ---
 
@@ -104,7 +116,7 @@ I care about systems that are technically credible *and* actually usable: clean 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-MoallaMelek-181717?style=for-the-badge&logo=github)](https://github.com/MoallaMelek)
-[![Email](https://img.shields.io/badge/Email-moalla.melek09@gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melek.moalla@esprit.tn)
+[![Email](https://img.shields.io/badge/Email-moalla.melek09@gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moalla.melek09@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,35:111827,70:1F2937,100:2563EB" alt="" />
 
