@@ -7,6 +7,7 @@ on:
   push:
     branches: [master]
     paths:
+      - README.md
       - scripts/generate_cards.py
       - .github/workflows/cards.yml
 
