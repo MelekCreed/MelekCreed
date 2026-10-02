@@ -86,16 +86,16 @@ I care about systems that are technically credible *and* actually usable: clean 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180" src="assets/stats.svg" alt="GitHub stats" />
-  <img height="180" src="assets/top-langs.svg" alt="Most used languages" />
+  <img height="180" src="assets/stats.svg?v=20261002" alt="GitHub stats" />
+  <img height="180" src="assets/top-langs.svg?v=20261002" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=MoallaMelek&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=7EE787&currStreakLabel=E6EDF3" alt="GitHub streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=MoallaMelek&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=7EE787&currStreakLabel=E6EDF3&v=20261002" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img width="100%" src="assets/activity.svg" alt="Contribution activity graph" />
+  <img width="100%" src="assets/activity.svg?v=20261002" alt="Contribution activity graph" />
 </div>
 
 <sub>Stats, language and project cards are generated daily by a GitHub Action in this repo.</sub>
